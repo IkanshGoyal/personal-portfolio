@@ -639,8 +639,12 @@ sec 4 height = 700px
         left: 2%;
     }
 
+    .domain {
+        height: 280px;
+    }
+
     #section1 {
-        height: 2750px;
+        height: 2850px;
     }
 
     #tech {
@@ -648,21 +652,25 @@ sec 4 height = 700px
     }
 
     #skills {
-        top: 2000px;
+        top: 2100px;
     }
 
     #section2 {
-        top: 2750px;
-        height: 2300px;
+        top: 2850px;
+        height: 2350px;
+    }
+
+    .img-container {
+        margin-right: 5px;
     }
 
     #section3 {
-        top: 5050px;
-        height: 2880px;
+        top: 5100px;
+        height: 2950px;
     }
 
     #section4 {
-        top: 7880px;
+        top: 7950px;
         height: 1250px;
     }
 
